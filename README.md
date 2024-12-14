@@ -60,4 +60,4 @@ Contributions are welcome! If you encounter any issues or have suggestions, feel
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## JavaScript online compiler for test modThree_standard.js
-https://www.programiz.com/online-compiler/5FWRLbChL9ZYo
+https://www.programiz.com/online-compiler/84XDfb4eYwEZK
