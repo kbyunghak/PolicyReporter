@@ -23,16 +23,17 @@ A JavaScript function that computes the remainder when a binary string is interp
 const remainder = modThree_standard("110");
 console.log(remainder); // Output: 0
 ```
+## Installation and Run Tests
+Clone this repository and include the `modThree_standard.js` file in your project.
+
+```bash
+git clone https://github.com/kbyunghak/PolicyReporter
+cd policyreporter/standard
+node modThree_standard.js
+```
 
 ## Unit Testing
 This repository includes a comprehensive test suite to validate the `modThree_standard` function. The test suite includes both valid and invalid input cases.
-
-### Run Tests
-To execute the tests, call the `runTests` function:
-
-```javascript
-runTests();
-```
 
 ### Example Output
 ```
@@ -40,13 +41,6 @@ Test passed for input: "110". Output: 0
 Test passed for input: "111". Output: 1
 Test passed for invalid input: "". Error: Input must be a non-empty binary string (containing only '0' and '1').
 All tests passed successfully!
-```
-
-## Installation
-Clone this repository and include the `modThree_standard.js` file in your project.
-
-```bash
-git clone https://github.com/kbyunghak/modThree_standard.git
 ```
 
 ## File Structure
