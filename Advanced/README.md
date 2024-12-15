@@ -24,18 +24,12 @@ Ensure you have the following installed:
 
 ### Installation
 
-1. **Clone the Repository**:
+1. **Clone the Repository and run test cases**:
    ```bash
    git clone https://github.com/kbyunghak/PolicyReporter
-   cd fsm-project
+   cd PolicyReporter/Advanced
+   note test.js
    ```
-
-2. **Install Dependencies** (if any, e.g., for future test frameworks):
-   ```bash
-   npm install
-   ```
-
----
 
 ### Usage
 
