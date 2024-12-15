@@ -1,4 +1,4 @@
-const FiniteStateMachine = require('./FiniteStateMachine');
+import FiniteStateMachine from './FiniteStateMachine.js';
 
 // Define the mod-three FSM
 const modThreeFSM = new FiniteStateMachine({
@@ -31,6 +31,8 @@ function modThree_advanced(input) {
 }
 
 // Example Usage
-console.log(modThree_advanced("110")); // Output: 0
-console.log(modThree_advanced("111")); // Output: 1
-console.log(modThree_advanced("10"));  // Output: 2
+// console.log(modThree_advanced("110")); // Output: 0
+// console.log(modThree_advanced("111")); // Output: 1
+// console.log(modThree_advanced("10"));  // Output: 2
+
+export default modThree_advanced;

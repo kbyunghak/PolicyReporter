@@ -49,4 +49,4 @@ class FiniteStateMachine {
     }
 }
 
-module.exports = FiniteStateMachine;
+export default FiniteStateMachine;

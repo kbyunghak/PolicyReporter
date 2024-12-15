@@ -1,4 +1,4 @@
-const modThree_advanced = require('./index');
+import modThree_advanced from './index.js';
 
 function runTests() {
     const testCases = [
