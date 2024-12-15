@@ -1,7 +1,5 @@
 # Finite State Machine (FSM) Project
-
 This project demonstrates how to implement a **Finite State Machine (FSM)** in JavaScript, with a practical example of computing the **modulo-3 of a binary number**. The FSM framework is generic and can be extended for various applications requiring state-based logic.
-
 ---
 
 ## Features
@@ -10,7 +8,6 @@ This project demonstrates how to implement a **Finite State Machine (FSM)** in J
 - A `modThree_advanced` function that computes the remainder of a binary number divided by 3.
 - Comprehensive unit tests to validate functionality.
 - Proper error handling for invalid FSM configurations and inputs.
-
 ---
 
 ## Getting Started
@@ -19,60 +16,17 @@ This project demonstrates how to implement a **Finite State Machine (FSM)** in J
 Ensure you have the following installed:
 - [Node.js](https://nodejs.org) (v14 or later)
 - A code editor (e.g., [VS Code](https://code.visualstudio.com/))
-
 ---
 
 ### Installation
-
 1. **Clone the Repository and run test cases**:
    ```bash
    git clone https://github.com/kbyunghak/PolicyReporter
    cd PolicyReporter/Advanced
    note test.js
    ```
-
-### Usage
-
-1. **Run the Modulo-3 FSM Example**:
-   The following example calculates the modulo-3 of a binary string:
-   ```bash
-   node index.js
-   ```
-
-   **Expected Output** (for example inputs hardcoded in `index.js`):
-   ```
-   0
-   ```
-
-2. **Modify Input**:
-   Update the input string in `index.js` to test with different binary strings:
-   ```javascript
-   console.log(modThree_advanced("111")); // Modify input here
-   ```
-
-   Re-run the script:
-   ```bash
-   node index.js
-   ```
-
-3. **Run Tests**:
-   To validate the FSM and the `modThree_advanced` function, run:
-   ```bash
-   node test.js
-   ```
-
-   **Expected Output**:
-   ```
-   Test passed for input "110".
-   Test passed for input "111".
-   Test passed for invalid input "abc".
-   ...
-   ```
-
----
-
+   
 ## Project Structure
-
 ```
 fsm-project/
 │
@@ -128,17 +82,4 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-### Example Commit Messages
-For a clean Git history, use these commit messages:
-1. `Initialize project structure`
-2. `Add FiniteStateMachine class with basic functionality`
-3. `Add mod-three FSM example`
-4. `Implement modThree_advanced function`
-5. `Add unit tests for FSM and modThree_advanced`
-6. `Add project documentation`
-
----
 
