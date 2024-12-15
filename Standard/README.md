@@ -47,9 +47,6 @@ All tests passed successfully!
 - **modThree_standard.js**: Contains the main function and test suite.
 - **README.md**: Documentation file (you are here).
 
-## Contributing
-Contributions are welcome! If you encounter any issues or have suggestions, feel free to open an issue or submit a pull request.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
