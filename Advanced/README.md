@@ -75,9 +75,6 @@ fsm-project/
 
 ---
 
-## JavaScript online compiler for test modThree_advanced.js
-https://www.programiz.com/online-compiler/84XDfb4eYwEZK
-
 ---
 
 ## License
