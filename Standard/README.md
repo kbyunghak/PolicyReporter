@@ -50,5 +50,3 @@ All tests passed successfully!
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## JavaScript online compiler for test modThree_standard.js
-https://www.programiz.com/online-compiler/84XDfb4eYwEZK
